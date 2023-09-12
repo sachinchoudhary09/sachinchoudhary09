@@ -1,7 +1,7 @@
 ## Hey there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
 I'm Sachin, an **Frontend Web Developer** :computer: from India who's passionate about new technologies and innovation  <br>
-<br><br><a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FSachin7976"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FSachin7976&labelColor=%23001dbe&countColor=%23d9e3f0&style=flat&labelStyle=upper" /></a>
+<br><br><a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fsachinchoudhary09"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fsachinchoudhary09&labelColor=%23001dbe&countColor=%23d9e3f0&style=flat&labelStyle=upper" /></a>
 <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="325" align="right"><br>
 <br>
 - 🔭 I’m currently working on **Frontend Development Projects**.
