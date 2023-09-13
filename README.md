@@ -7,7 +7,7 @@ I'm Sachin, an **Frontend Web Developer** :computer: from India who's passionate
 - 🔭 I’m currently working on **Frontend Development Projects**.
 - :hourglass_flowing_sand: I’m currently exploring about **Node.js**.
 - :rocket: Always ready to collaborate for Dev Experiments.
-- :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge"
+- :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge".
 - :zap: Fun Fact: I enjoy diverse music genres and love to listen to them.
 - :mailbox: How to reach me: sachinchoudhary5711@gmail.com 
                                                                             
